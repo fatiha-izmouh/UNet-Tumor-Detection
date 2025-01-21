@@ -35,7 +35,9 @@ Place your training masks in the data/masks/ directory.
 
 ## 📊 Results
 -**Output:** The model outputs binary segmentation masks highlighting tumor regions.
+
 -**Loss Function:** Focal Loss improves the model’s focus on minor tumor regions.
+
 -**Visualization:** Overlays of predictions on original images can be viewed for evaluation.
 
    

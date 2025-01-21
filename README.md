@@ -18,7 +18,7 @@ A deep learning project that uses a **UNet model** with **Convolutional Neural N
 
 1️⃣ **Clone the Repository**  
   
-   git clone https://github.com/yourusername/UNet-Tumor-Detection.git
+   git clone https://github.com/yourusername/UNet-Tumor-Detection.git.
    cd UNet-Tumor-Detection
    
 2️⃣  **Install Dependencies**   
